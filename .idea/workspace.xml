@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d15ec118-7fde-4afc-b0ae-22d0b820df3e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_createProperty.coverage" NAME="Unittests for testDNA.Test.test_createProperty Coverage Results" MODIFIED="1547522221713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getnum1.coverage" NAME="Unittests for runTestMoon.Test.test_getnum1 Coverage Results" MODIFIED="1545289420894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getNum1.coverage" NAME="Unittests for runTestMoon.Test.test_getNum1 Coverage Results" MODIFIED="1545633159092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_setOddsTable.coverage" NAME="Unittests for runTestMoon.Test.test_setOddsTable Coverage Results" MODIFIED="1545292878065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_removeProperty.coverage" NAME="Unittests for testDNA.Test.test_removeProperty Coverage Results" MODIFIED="1547522461990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_bytearr.coverage" NAME="Unittests for runTestMoon.Test.test_bytearr Coverage Results" MODIFIED="1545295253097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_invoke.coverage" NAME="Unittests for runTestMoon.Test.test_invoke Coverage Results" MODIFIED="1545292344386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getCurrentRound.coverage" NAME="Unittests for runTestMoon.Test.test_getCurrentRound Coverage Results" MODIFIED="1545704015637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_bet.coverage" NAME="Unittests for runTestMoon.Test.test_bet Coverage Results" MODIFIED="1545708101716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$runTestLuckyNumber.coverage" NAME="runTestLuckyNumber Coverage Results" MODIFIED="1545203650476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wzxumo/Files" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_startNewRound.coverage" NAME="Unittests for runTestMoon.Test.test_startNewRound Coverage Results" MODIFIED="1545708505207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$runTestLuckyNumber_1_.coverage" NAME="runTestLuckyNumber(1) Coverage Results" MODIFIED="1545289162094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wzxumo/Files" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_end.coverage" NAME="Unittests for runTestMoon.Test.test_end Coverage Results" MODIFIED="1545708653144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_transferProperty.coverage" NAME="Unittests for testDNA.Test.test_transferProperty Coverage Results" MODIFIED="1547522387340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_normal_bet.coverage" NAME="Unittests for runTestMoon.Test.test_normal_bet Coverage Results" MODIFIED="1545639926024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$moon.coverage" NAME="moon Coverage Results" MODIFIED="1545289285140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getLuckyBalance.coverage" NAME="Unittests for runTestMoon.Test.test_getLuckyBalance Coverage Results" MODIFIED="1545634792744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_init.coverage" NAME="Unittests for runTestMoon.Test.test_init Coverage Results" MODIFIED="1545708494805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_get.coverage" NAME="Unittests for testDNA.Test.test_get Coverage Results" MODIFIED="1547200585465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$test.coverage" NAME="test Coverage Results" MODIFIED="1545274350968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wzxumo/Files" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_test_DNA_Test_test_createProperty.coverage" NAME="Unittests for test-DNA.Test.test_createProperty Coverage Results" MODIFIED="1547018733412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getRoundStatus.coverage" NAME="Unittests for runTestMoon.Test.test_getRoundStatus Coverage Results" MODIFIED="1547200050356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testDNA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runTestMoon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="49" column="58" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Inv</find>
+      <find>getCurrent</find>
+      <find>getTotal</find>
+      <find>getProfit</find>
+      <find>getPaperB</find>
+      <find>wallet_path1</find>
+      <find>handleEvent(</find>
+      <find>number</find>
+      <find>startNw</find>
+      <find>startNewRound</find>
+      <find>random</find>
+      <find>transaction</find>
+      <find>AbiFunction</find>
+      <find>getblock</find>
+      <find>bet</find>
+      <find>luckyMoonContractAddress</find>
+      <find>start</find>
+      <find>requests</find>
+      <find>binascii</find>
+      <find>payerAcct</find>
+      <find>datetime</find>
+      <find>,0</find>
+      <find>pre</find>
+      <find>NeoVm</find>
+      <find>read</find>
+      <find>test_invokeRead</find>
+      <find>handle</find>
+      <find>invoke</find>
+      <find>cryptography</find>
+      <find>lucky</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>TOTAL_PAPER_KEY</replace>
+      <replace>60</replace>
+      <replace>wallet_path</replace>
+      <replace>\</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\SDK\pythontest\pythontest-master\pythontest-master\ontology\smart_contract\neo_contract</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="SHOW_REMOTE_BRANCHES" value="true" />
+    <option name="ONTO" value="refs/remotes/upstream/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/test_rpc_client.py" />
+        <option value="$PROJECT_DIR$/contract/lottery/lottery.py" />
+        <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/[ver2]-lottery.abi.json" />
+        <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/[ver2]-lottery.avm" />
+        <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/[ver2]-lottery_abi.json" />
+        <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/test_abi.json" />
+        <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/invoke.json" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/contract/Wontology/Wontology.avm" />
+        <option value="$PROJECT_DIR$/contract/Wontology/Wontology.py" />
+        <option value="$PROJECT_DIR$/contract/Wontology/Wontology_abi.json" />
+        <option value="$PROJECT_DIR$/contract/TestContract/TestContract.cs" />
+        <option value="$PROJECT_DIR$/contract/TestContract/invoke.json" />
+        <option value="$PROJECT_DIR$/contract/OEP4SamplePY/OEP4Sample_abi.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/contract/OEP4SamplePY/abi.json" />
+        <option value="$PROJECT_DIR$/contract/OEP4SamplePY/invoke.json" />
+        <option value="$PROJECT_DIR$/contract/Wontology/abi.json" />
+        <option value="$PROJECT_DIR$/contract/Wontology/invoke.json" />
+        <option value="$PROJECT_DIR$/ontology/utils/util.py" />
+        <option value="$PROJECT_DIR$/deploy.json" />
+        <option value="$PROJECT_DIR$/contract/CollectPumpkin/invoke.json" />
+        <option value="$PROJECT_DIR$/contract/CollectPumpkin/abi.json" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/luckynumber_abi.json" />
+        <option value="$PROJECT_DIR$/contract/CollectPumpkin/collectPumpkin.py" />
+        <option value="$PROJECT_DIR$/contract/OEP4SamplePY/OEP4Sample.py" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/abi.json" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/invoke.json" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/deploy.json" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/parallelRunTest.py" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/luckynumber.py" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/improvedluckynumber.py" />
+        <option value="$PROJECT_DIR$/ontology/wallet/wallet_manager.py" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/privateKey10000.csv" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/luckynumberModifiedRules_abi.json" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/luckynumberModifiedRules.py" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/luckynumber3.py" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/luckynumber4.py" />
+        <option value="$PROJECT_DIR$/ontology/rpc/rpc.py" />
+        <option value="$PROJECT_DIR$/../skyinglyh-git/onchain-work-git/ONTology-Games/ONG-Bets/ong-bets/rule.csv" />
+        <option value="$PROJECT_DIR$/contract/LuckyNumber/runTestLuckyNumber.py" />
+        <option value="$PROJECT_DIR$/contract/ONGBet/runTestONGBet.py" />
+        <option value="$PROJECT_DIR$/contract/LuckyMoon/runTestLuckyMoon.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wzxumo/Files/test.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wzxumo/Files/runTestLuckyNumber(1).py" />
+        <option value="$PROJECT_DIR$/moon.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wzxumo/Files/runTestLuckyMoon(1).py" />
+        <option value="$PROJECT_DIR$/runTestMoon.py" />
+        <option value="$PROJECT_DIR$/test-DNA.py" />
+        <option value="$PROJECT_DIR$/testDNA.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-Moon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-Moon" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="RPC_GET_BLOCK&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SDK\current-pythontest\contract\LuckyMoon" />
+      <recent name="D:\SDK\current-pythontest\contract\ONGBet" />
+      <recent name="D:\SDK\current-pythontest\contract\LuckyNumber" />
+      <recent name="D:\SDK\pythontest\pythontest-master\pythontest-master\contract\LuckyNumber" />
+      <recent name="D:\SDK\pythontest\pythontest-master\pythontest-master\contract\OEP4SamplePY" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/contract/Token" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/abi" />
+      <recent name="$PROJECT_DIR$/invoke_param" />
+      <recent name="$PROJECT_DIR$/ontology/smart_contract/neo_contract/abi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for testDNA.Test.test_removeProperty">
+    <configuration name="Unittests for runTestMoon.Test.test_getRoundStatus" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ontology-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;runTestMoon.Test.test_getRoundStatus&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testDNA.Test.test_createProperty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ontology-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\DELL\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testDNA.Test.test_createProperty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testDNA.Test.test_get" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ontology-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testDNA.Test.test_get&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testDNA.Test.test_removeProperty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ontology-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testDNA.Test.test_removeProperty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testDNA.Test.test_transferProperty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ontology-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testDNA.Test.test_transferProperty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for testDNA.Test.test_createProperty" />
+      <item itemvalue="Python tests.Unittests for testDNA.Test.test_transferProperty" />
+      <item itemvalue="Python tests.Unittests for testDNA.Test.test_removeProperty" />
+      <item itemvalue="Python tests.Unittests for testDNA.Test.test_get" />
+      <item itemvalue="Python tests.Unittests for runTestMoon.Test.test_getRoundStatus" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for testDNA.Test.test_removeProperty" />
+        <item itemvalue="Python tests.Unittests for testDNA.Test.test_transferProperty" />
+        <item itemvalue="Python tests.Unittests for testDNA.Test.test_createProperty" />
+        <item itemvalue="Python tests.Unittests for testDNA.Test.test_get" />
+        <item itemvalue="Python tests.Unittests for runTestMoon.Test.test_getRoundStatus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d15ec118-7fde-4afc-b0ae-22d0b820df3e" name="Default" comment="" />
+      <created>1533028451920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533028451920</updated>
+      <workItem from="1545271076209" duration="3717000" />
+      <workItem from="1545278102903" duration="7177000" />
+      <workItem from="1545287997116" duration="13980000" />
+      <workItem from="1545356967644" duration="17937000" />
+      <workItem from="1545617568034" duration="7200000" />
+      <workItem from="1545701175322" duration="7670000" />
+      <workItem from="1545721989863" duration="197000" />
+      <workItem from="1545722216827" duration="8000" />
+      <workItem from="1545880218594" duration="988000" />
+      <workItem from="1545886977021" duration="3799000" />
+      <workItem from="1545892855992" duration="1353000" />
+      <workItem from="1545960649146" duration="158000" />
+      <workItem from="1545962288625" duration="31000" />
+      <workItem from="1547013735532" duration="12558000" />
+      <workItem from="1547087459866" duration="5134000" />
+      <workItem from="1547099090340" duration="6264000" />
+      <workItem from="1547112979981" duration="768000" />
+      <workItem from="1547176343966" duration="2004000" />
+      <workItem from="1547191979002" duration="8328000" />
+      <workItem from="1547516228989" duration="1000" />
+      <workItem from="1547522065282" duration="191000" />
+      <workItem from="1548039605833" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 51m 44s.xml">
+      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 53m 13s.xml">
+      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_createProperty - 2019.01.11 at 17h 53m 58s.xml">
+      <configuration name="Unittests for testDNA.Test.test_createProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 54m 02s.xml">
+      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 54m 07s.xml">
+      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_transferProperty - 2019.01.11 at 17h 55m 01s.xml">
+      <configuration name="Unittests for testDNA.Test.test_transferProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 55m 13s.xml">
+      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 56m 26s.xml">
+      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_createProperty - 2019.01.15 at 11h 16m 33s.xml">
+      <configuration name="Unittests for testDNA.Test.test_createProperty" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testDNA_Test_test_createProperty - 2019.01.15 at 11h 17m 02s.xml">
+      <configuration name="Unittests for testDNA.Test.test_createProperty" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107680000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62025315" visible="true" weight="0.16823056" />
+      <window_info id="Structure" order="1" sideWeight="0.37974682" side_tool="true" weight="0.25670242" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.1756374" side_tool="true" weight="0.34651473" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32756326" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.84681857" visible="true" weight="0.40934843" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8491103" weight="0.33569404" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49637157" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.15318146" side_tool="true" weight="0.40213048" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49854863" weight="0.26098534" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="upmaster8" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ontology/test/test_ontology_sdk.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ontology/smart_contract/neo_contract/abi/build_params.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_neo_vm.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test_wallet_manager.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>bytearray.fromhex(hex(100).replace(&quot;0x&quot;,&quot;&quot;))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bytearray.fromhex(&quot;64&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bytearray.fromhex(hex(100))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hex(100)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>json.loads(r.content.decode())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.bit_length()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>num</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>num.to_bytes(4,&quot;little&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(bytearray(self.ZERO))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumber_abi.json" />
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/improvedluckynumber.py" />
+    <entry file="file://$PROJECT_DIR$/ontology/crypto/scrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/invoke.csv" />
+    <entry file="file://$PROJECT_DIR$/ontology/account/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumber.py" />
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumberModifiedRules.avm" />
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumberModifiedRules_abi.json" />
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumberModifiedRules.py" />
+    <entry file="file://$PROJECT_DIR$/ontology/wallet/wallet_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="289" selection-start-line="289" selection-end-line="289" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumber3.py" />
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumber2.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py" />
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/buyAndFillPaper.csv" />
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumber4.py" />
+    <entry file="file://$PROJECT_DIR$/../skyinglyh-git/onchain-work-git/ONTology-Games/ONG-Bets/ong-bets/rule.csv" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/667474992/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1489">
+          <caret line="303" column="26" lean-forward="true" selection-start-line="303" selection-start-column="26" selection-end-line="303" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontology/smart_contract/neo_contract/oep4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/667474992/binascii.py" />
+    <entry file="file://$PROJECT_DIR$/demo.py" />
+    <entry file="file://$PROJECT_DIR$/ontology/common/address.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontology/ont_sdk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/privateKey10000.csv" />
+    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/runTestLuckyNumber.py" />
+    <entry file="file://$PROJECT_DIR$/ontology/smart_contract/neo_vm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+          <folding>
+            <element signature="e#48#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/667474992/time.py" />
+    <entry file="file://$PROJECT_DIR$/contract/ONGBet/runTestONGBet.py" />
+    <entry file="file://$PROJECT_DIR$/ontology/vm/params_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#48#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contract/LuckyMoon/runTestLuckyMoon.py" />
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wzxumo/Files/runTestLuckyNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="867" column="42" lean-forward="true" selection-start-line="867" selection-start-column="42" selection-end-line="867" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-test-contract/system/blockchain/blockchain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wzxumo/Files/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wzxumo/Files/runTestLuckyNumber(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontology/rpc/rpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="457" selection-start-line="457" selection-end-line="457" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup_package/install.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wzxumo/Files/runTestLuckyMoon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="195" column="24" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wzxumo/Files/runTestLuckyMoon(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="490" column="42" lean-forward="true" selection-start-line="490" selection-start-column="42" selection-end-line="490" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontology/utils/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="136" column="32" lean-forward="true" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontology/crypto/digest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1313306011/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="235" selection-start-line="229" selection-end-line="235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontology/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontology/core/transaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-DNA.py" />
+    <entry file="file://$PROJECT_DIR$/ontology/crypto/signature_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testDNA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runTestMoon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="49" column="58" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
