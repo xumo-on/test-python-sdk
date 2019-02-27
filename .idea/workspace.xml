@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d15ec118-7fde-4afc-b0ae-22d0b820df3e" name="Default" comment="" />
+    <list default="true" id="d15ec118-7fde-4afc-b0ae-22d0b820df3e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/dataTest.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runTestLuckyMoon(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runTestPoke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testLayer2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testDNA.py" beforeDir="false" afterPath="$PROJECT_DIR$/testDNA.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,50 +16,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_createProperty.coverage" NAME="Unittests for testDNA.Test.test_createProperty Coverage Results" MODIFIED="1547522221713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getnum1.coverage" NAME="Unittests for runTestMoon.Test.test_getnum1 Coverage Results" MODIFIED="1545289420894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getNum1.coverage" NAME="Unittests for runTestMoon.Test.test_getNum1 Coverage Results" MODIFIED="1545633159092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_setOddsTable.coverage" NAME="Unittests for runTestMoon.Test.test_setOddsTable Coverage Results" MODIFIED="1545292878065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_removeProperty.coverage" NAME="Unittests for testDNA.Test.test_removeProperty Coverage Results" MODIFIED="1547522461990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_bytearr.coverage" NAME="Unittests for runTestMoon.Test.test_bytearr Coverage Results" MODIFIED="1545295253097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_invoke.coverage" NAME="Unittests for runTestMoon.Test.test_invoke Coverage Results" MODIFIED="1545292344386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testDNA_Test_test_get.coverage" NAME="Unittests for testDNA.Test.test_get Coverage Results" MODIFIED="1548655149078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getCurrentRound.coverage" NAME="Unittests for runTestMoon.Test.test_getCurrentRound Coverage Results" MODIFIED="1545704015637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_bet.coverage" NAME="Unittests for runTestMoon.Test.test_bet Coverage Results" MODIFIED="1545708101716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$runTestLuckyNumber.coverage" NAME="runTestLuckyNumber Coverage Results" MODIFIED="1545203650476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wzxumo/Files" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_getVoteTokenBalance.coverage" NAME="Unittests for testLayer2.Test.test_getVoteTokenBalance Coverage Results" MODIFIED="1551236078096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_startNewRound.coverage" NAME="Unittests for runTestMoon.Test.test_startNewRound Coverage Results" MODIFIED="1545708505207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_Moon$runTestLuckyNumber_1_.coverage" NAME="runTestLuckyNumber(1) Coverage Results" MODIFIED="1545289162094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wzxumo/Files" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_runTestPoke_Test_test_startGame.coverage" NAME="Unittests for runTestPoke.Test.test_startGame Coverage Results" MODIFIED="1550727151546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_PLCR_reveal.coverage" NAME="Unittests for testLayer2.Test.test_PLCR_reveal Coverage Results" MODIFIED="1551235941133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_Registry_challenge.coverage" NAME="Unittests for testLayer2.Test.test_Registry_challenge Coverage Results" MODIFIED="1551235929285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_Registry_init.coverage" NAME="Unittests for testLayer2.Test.test_Registry_init Coverage Results" MODIFIED="1551235772395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_setOddsTable.coverage" NAME="Unittests for runTestMoon.Test.test_setOddsTable Coverage Results" MODIFIED="1545292878065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_getPollNounce.coverage" NAME="Unittests for testLayer2.Test.test_getPollNounce Coverage Results" MODIFIED="1551235893313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_PLCR_getEndTimeList.coverage" NAME="Unittests for testLayer2.Test.test_PLCR_getEndTimeList Coverage Results" MODIFIED="1551177841169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_bet.coverage" NAME="Unittests for runTestMoon.Test.test_bet Coverage Results" MODIFIED="1545708101716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_validPosition.coverage" NAME="Unittests for testLayer2.Test.test_validPosition Coverage Results" MODIFIED="1551166003079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$runTestLuckyNumber.coverage" NAME="runTestLuckyNumber Coverage Results" MODIFIED="1545203650476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wzxumo/Files" />
     <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_end.coverage" NAME="Unittests for runTestMoon.Test.test_end Coverage Results" MODIFIED="1545708653144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_transferProperty.coverage" NAME="Unittests for testDNA.Test.test_transferProperty Coverage Results" MODIFIED="1547522387340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_normal_bet.coverage" NAME="Unittests for runTestMoon.Test.test_normal_bet Coverage Results" MODIFIED="1545639926024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$moon.coverage" NAME="moon Coverage Results" MODIFIED="1545289285140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getLuckyBalance.coverage" NAME="Unittests for runTestMoon.Test.test_getLuckyBalance Coverage Results" MODIFIED="1545634792744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_init.coverage" NAME="Unittests for runTestMoon.Test.test_init Coverage Results" MODIFIED="1545708494805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_Registry_updateStatus.coverage" NAME="Unittests for testLayer2.Test.test_Registry_updateStatus Coverage Results" MODIFIED="1551236045504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_getDll.coverage" NAME="Unittests for testLayer2.Test.test_getDll Coverage Results" MODIFIED="1551166745151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_get.coverage" NAME="Unittests for testDNA.Test.test_get Coverage Results" MODIFIED="1547200585465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getnum1.coverage" NAME="Unittests for runTestMoon.Test.test_getnum1 Coverage Results" MODIFIED="1545289420894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_Parameterizer_init.coverage" NAME="Unittests for testLayer2.Test.test_Parameterizer_init Coverage Results" MODIFIED="1551234232313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_removeProperty.coverage" NAME="Unittests for testDNA.Test.test_removeProperty Coverage Results" MODIFIED="1547522461990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_bytearr.coverage" NAME="Unittests for runTestMoon.Test.test_bytearr Coverage Results" MODIFIED="1545295253097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_PLCR_commitVoteC1.coverage" NAME="Unittests for testLayer2.Test.test_PLCR_commitVoteC1 Coverage Results" MODIFIED="1551163614989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testDNA_Test_test_createProperty.coverage" NAME="Unittests for testDNA.Test.test_createProperty Coverage Results" MODIFIED="1548654637183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_runTestMoon_Test_test_getHash.coverage" NAME="Unittests for runTestMoon.Test.test_getHash Coverage Results" MODIFIED="1548654138734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_transferProperty.coverage" NAME="Unittests for testDNA.Test.test_transferProperty Coverage Results" MODIFIED="1547522387340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_Registry_apply.coverage" NAME="Unittests for testLayer2.Test.test_Registry_apply Coverage Results" MODIFIED="1551235908981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_normal_bet.coverage" NAME="Unittests for runTestMoon.Test.test_normal_bet Coverage Results" MODIFIED="1545639926024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getLuckyBalance.coverage" NAME="Unittests for runTestMoon.Test.test_getLuckyBalance Coverage Results" MODIFIED="1545634792744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_PLCR_commitVoteO.coverage" NAME="Unittests for testLayer2.Test.test_PLCR_commitVoteO Coverage Results" MODIFIED="1551235933944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_get.coverage" NAME="Unittests for testLayer2.Test.test_get Coverage Results" MODIFIED="1551179005830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getRoundStatus.coverage" NAME="Unittests for runTestMoon.Test.test_getRoundStatus Coverage Results" MODIFIED="1547200050356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_runTestMoon_Test_test_getNum1.coverage" NAME="Unittests for runTestMoon.Test.test_getNum1 Coverage Results" MODIFIED="1548653670238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_testDNA_Test_test_createProperty.coverage" NAME="Unittests for testDNA.Test.test_createProperty Coverage Results" MODIFIED="1547522221713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testDNA_Test_test_init.coverage" NAME="Unittests for testDNA.Test.test_init Coverage Results" MODIFIED="1548655069238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_commiStage.coverage" NAME="Unittests for testLayer2.Test.test_commiStage Coverage Results" MODIFIED="1551178693169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_invoke.coverage" NAME="Unittests for runTestMoon.Test.test_invoke Coverage Results" MODIFIED="1545292344386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_PLCRVoting_init.coverage" NAME="Unittests for testLayer2.Test.test_PLCRVoting_init Coverage Results" MODIFIED="1551233823406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_getListing.coverage" NAME="Unittests for testLayer2.Test.test_getListing Coverage Results" MODIFIED="1551177067087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_getHash.coverage" NAME="Unittests for testLayer2.Test.test_getHash Coverage Results" MODIFIED="1551235901829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$moon.coverage" NAME="moon Coverage Results" MODIFIED="1545289285140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_PLCR_commitVoteC.coverage" NAME="Unittests for testLayer2.Test.test_PLCR_commitVoteC Coverage Results" MODIFIED="1551163611004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_Registry_withdraw.coverage" NAME="Unittests for testLayer2.Test.test_Registry_withdraw Coverage Results" MODIFIED="1551168657046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_PLCR_revealPeriodActive.coverage" NAME="Unittests for testLayer2.Test.test_PLCR_revealPeriodActive Coverage Results" MODIFIED="1551235412920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_init.coverage" NAME="Unittests for runTestMoon.Test.test_init Coverage Results" MODIFIED="1545708494805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_getNumTokens.coverage" NAME="Unittests for testLayer2.Test.test_getNumTokens Coverage Results" MODIFIED="1551236127807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_Moon$test.coverage" NAME="test Coverage Results" MODIFIED="1545274350968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wzxumo/Files" />
     <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_test_DNA_Test_test_createProperty.coverage" NAME="Unittests for test-DNA.Test.test_createProperty Coverage Results" MODIFIED="1547018733412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_Moon$Unittests_for_runTestMoon_Test_test_getRoundStatus.coverage" NAME="Unittests for runTestMoon.Test.test_getRoundStatus Coverage Results" MODIFIED="1547200050356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_testLayer2_Test_test_PLCT_getNumTokens.coverage" NAME="Unittests for testLayer2.Test.test_PLCT_getNumTokens Coverage Results" MODIFIED="1551175697054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_python_sdk$Unittests_for_runTestPoke_Test_test_createProperty.coverage" NAME="Unittests for runTestPoke.Test.test_createProperty Coverage Results" MODIFIED="1550565251498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testDNA.py">
+        <entry file="file://$PROJECT_DIR$/testLayer2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            <state relative-caret-position="295">
+              <caret line="458" lean-forward="true" selection-start-line="458" selection-end-line="458" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runTestMoon.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="49" column="58" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#2493#2890#0" />
+                <element signature="e#2940#3520#0" />
+                <element signature="e#3564#4084#0" />
+                <element signature="e#4130#4630#0" />
+                <element signature="e#4681#5165#0" />
+                <element signature="e#5208#5722#0" />
+                <element signature="e#5775#6182#0" />
+                <element signature="e#6231#6720#0" />
+                <element signature="e#6768#7369#0" />
+                <element signature="e#7418#8021#0" />
+                <element signature="e#8069#8607#0" />
+                <element signature="e#8651#8938#0" />
+                <element signature="e#8988#9323#0" />
+                <element signature="e#9366#9724#0" />
+                <element signature="e#9778#10272#0" />
+                <element signature="e#10322#10645#0" />
+                <element signature="e#10686#11236#0" />
+                <element signature="e#11277#11602#0" />
+                <element signature="e#11640#12003#0" />
+                <element signature="e#12047#12467#0" />
+                <element signature="e#12501#12785#0" />
+                <element signature="e#12858#13870#0" />
+                <element signature="e#12854#13866#0" />
+                <element signature="e#13937#14945#0" />
+                <element signature="e#15001#23884#0" />
+                <element signature="e#23948#24238#0" />
               </folding>
             </state>
           </provider>
@@ -121,10 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/test_rpc_client.py" />
-        <option value="$PROJECT_DIR$/contract/lottery/lottery.py" />
-        <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/[ver2]-lottery.abi.json" />
-        <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/[ver2]-lottery.avm" />
         <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/[ver2]-lottery_abi.json" />
         <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/test_abi.json" />
         <option value="$PROJECT_DIR$/contract/[ver2]-Lottery/invoke.json" />
@@ -172,12 +219,16 @@
         <option value="$PROJECT_DIR$/runTestMoon.py" />
         <option value="$PROJECT_DIR$/test-DNA.py" />
         <option value="$PROJECT_DIR$/testDNA.py" />
+        <option value="$PROJECT_DIR$/runTestLuckyMoon(2).py" />
+        <option value="$PROJECT_DIR$/test/runTestPoke.py" />
+        <option value="$PROJECT_DIR$/runTestPoke.py" />
+        <option value="$PROJECT_DIR$/testLayer2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
+    <option name="x" value="780" />
+    <option name="y" value="210" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -192,8 +243,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="test-Moon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-Moon" type="462c0819:PsiDirectoryNode" />
+              <item name="test-python-sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-python-sdk" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,7 +257,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="RPC_GET_BLOCK&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../game-contract" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -218,11 +269,11 @@
       <recent name="D:\SDK\pythontest\pythontest-master\pythontest-master\contract\OEP4SamplePY" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test-python-sdk" />
       <recent name="$PROJECT_DIR$/contract/Token" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/abi" />
       <recent name="$PROJECT_DIR$/invoke_param" />
-      <recent name="$PROJECT_DIR$/ontology/smart_contract/neo_contract/abi" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,8 +288,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for testDNA.Test.test_removeProperty">
-    <configuration name="Unittests for runTestMoon.Test.test_getRoundStatus" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for testLayer2.Test.test_getNumTokens">
+    <configuration name="Unittests for testLayer2.Test.test_PLCR_commitVoteO" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ontology-python-sdk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,27 +300,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;runTestMoon.Test.test_getRoundStatus&quot;" />
+      <option name="_new_target" value="&quot;testLayer2.Test.test_PLCR_commitVoteO&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for testDNA.Test.test_createProperty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="ontology-python-sdk" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="C:\Users\DELL\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_pattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testDNA.Test.test_createProperty&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for testDNA.Test.test_get" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for testLayer2.Test.test_PLCR_reveal" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ontology-python-sdk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,11 +315,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testDNA.Test.test_get&quot;" />
+      <option name="_new_target" value="&quot;testLayer2.Test.test_PLCR_reveal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for testDNA.Test.test_removeProperty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for testLayer2.Test.test_Registry_updateStatus" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ontology-python-sdk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,11 +330,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testDNA.Test.test_removeProperty&quot;" />
+      <option name="_new_target" value="&quot;testLayer2.Test.test_Registry_updateStatus&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for testDNA.Test.test_transferProperty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for testLayer2.Test.test_getNumTokens" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ontology-python-sdk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,24 +345,39 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testDNA.Test.test_transferProperty&quot;" />
+      <option name="_new_target" value="&quot;testLayer2.Test.test_getNumTokens&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testLayer2.Test.test_getVoteTokenBalance" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ontology-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testLayer2.Test.test_getVoteTokenBalance&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for testDNA.Test.test_createProperty" />
-      <item itemvalue="Python tests.Unittests for testDNA.Test.test_transferProperty" />
-      <item itemvalue="Python tests.Unittests for testDNA.Test.test_removeProperty" />
-      <item itemvalue="Python tests.Unittests for testDNA.Test.test_get" />
-      <item itemvalue="Python tests.Unittests for runTestMoon.Test.test_getRoundStatus" />
+      <item itemvalue="Python tests.Unittests for testLayer2.Test.test_PLCR_commitVoteO" />
+      <item itemvalue="Python tests.Unittests for testLayer2.Test.test_PLCR_reveal" />
+      <item itemvalue="Python tests.Unittests for testLayer2.Test.test_Registry_updateStatus" />
+      <item itemvalue="Python tests.Unittests for testLayer2.Test.test_getVoteTokenBalance" />
+      <item itemvalue="Python tests.Unittests for testLayer2.Test.test_getNumTokens" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for testDNA.Test.test_removeProperty" />
-        <item itemvalue="Python tests.Unittests for testDNA.Test.test_transferProperty" />
-        <item itemvalue="Python tests.Unittests for testDNA.Test.test_createProperty" />
-        <item itemvalue="Python tests.Unittests for testDNA.Test.test_get" />
-        <item itemvalue="Python tests.Unittests for runTestMoon.Test.test_getRoundStatus" />
+        <item itemvalue="Python tests.Unittests for testLayer2.Test.test_getNumTokens" />
+        <item itemvalue="Python tests.Unittests for testLayer2.Test.test_getVoteTokenBalance" />
+        <item itemvalue="Python tests.Unittests for testLayer2.Test.test_Registry_updateStatus" />
+        <item itemvalue="Python tests.Unittests for testLayer2.Test.test_PLCR_reveal" />
+        <item itemvalue="Python tests.Unittests for testLayer2.Test.test_PLCR_commitVoteO" />
       </list>
     </recent_temporary>
   </component>
@@ -363,49 +413,66 @@
       <workItem from="1547516228989" duration="1000" />
       <workItem from="1547522065282" duration="191000" />
       <workItem from="1548039605833" duration="5000" />
+      <workItem from="1548652981063" duration="691000" />
+      <workItem from="1548653748182" duration="60000" />
+      <workItem from="1548654000545" duration="150000" />
+      <workItem from="1548654550508" duration="114000" />
+      <workItem from="1548654836957" duration="102000" />
+      <workItem from="1548654954675" duration="8000" />
+      <workItem from="1548655053723" duration="139000" />
+      <workItem from="1548749952981" duration="8000" />
+      <workItem from="1550131760467" duration="54000" />
+      <workItem from="1550485370717" duration="110000" />
+      <workItem from="1550561888665" duration="3795000" />
+      <workItem from="1550648863704" duration="8985000" />
+      <workItem from="1550721473066" duration="2455000" />
+      <workItem from="1550727115242" duration="541000" />
+      <workItem from="1551063153813" duration="18431000" />
+      <workItem from="1551146176199" duration="24604000" />
+      <workItem from="1551232376974" duration="4427000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 51m 44s.xml">
-      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_Registry_challenge - 2019.02.27 at 10h 52m 02s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_Registry_challenge" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 53m 13s.xml">
-      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_Registry_challenge - 2019.02.27 at 10h 52m 05s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_Registry_challenge" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_createProperty - 2019.01.11 at 17h 53m 58s.xml">
-      <configuration name="Unittests for testDNA.Test.test_createProperty" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_Registry_challenge - 2019.02.27 at 10h 52m 08s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_Registry_challenge" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 54m 02s.xml">
-      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_Registry_challenge - 2019.02.27 at 10h 52m 11s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_Registry_challenge" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 54m 07s.xml">
-      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_PLCR_commitVoteO - 2019.02.27 at 10h 52m 15s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_PLCR_commitVoteO" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_transferProperty - 2019.01.11 at 17h 55m 01s.xml">
-      <configuration name="Unittests for testDNA.Test.test_transferProperty" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_PLCR_reveal - 2019.02.27 at 10h 52m 44s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_PLCR_reveal" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 55m 13s.xml">
-      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_Registry_updateStatus - 2019.02.27 at 10h 53m 28s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_Registry_updateStatus" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_get - 2019.01.11 at 17h 56m 26s.xml">
-      <configuration name="Unittests for testDNA.Test.test_get" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_Registry_updateStatus - 2019.02.27 at 10h 54m 07s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_Registry_updateStatus" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_createProperty - 2019.01.15 at 11h 16m 33s.xml">
-      <configuration name="Unittests for testDNA.Test.test_createProperty" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_getVoteTokenBalance - 2019.02.27 at 10h 54m 40s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_getVoteTokenBalance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testDNA_Test_test_createProperty - 2019.01.15 at 11h 17m 02s.xml">
-      <configuration name="Unittests for testDNA.Test.test_createProperty" configurationId="tests" />
+    <history-entry file="Unittests_for_testLayer2_Test_test_getNumTokens - 2019.02.27 at 10h 55m 29s.xml">
+      <configuration name="Unittests for testLayer2.Test.test_getNumTokens" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107680000" />
+    <option name="totallyTimeSpent" value="172354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62025315" visible="true" weight="0.16823056" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62025315" visible="true" weight="0.1689008" />
       <window_info id="Structure" order="1" sideWeight="0.37974682" side_tool="true" weight="0.25670242" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -414,7 +481,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.1756374" side_tool="true" weight="0.34651473" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32756326" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.84681857" visible="true" weight="0.40934843" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.84681857" weight="0.296034" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8491103" weight="0.33569404" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -422,7 +489,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49637157" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.15318146" side_tool="true" weight="0.40213048" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49854863" weight="0.26098534" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49854863" weight="0.26062322" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -577,15 +644,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumber_abi.json" />
-    <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/improvedluckynumber.py" />
-    <entry file="file://$PROJECT_DIR$/ontology/crypto/scrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/invoke.csv" />
     <entry file="file://$PROJECT_DIR$/ontology/account/account.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,13 +670,6 @@
     <entry file="file://$PROJECT_DIR$/contract/LuckyNumber/luckynumber4.py" />
     <entry file="file://$PROJECT_DIR$/../skyinglyh-git/onchain-work-git/ONTology-Games/ONG-Bets/ong-bets/rule.csv" />
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/667474992/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1489">
-          <caret line="303" column="26" lean-forward="true" selection-start-line="303" selection-start-column="26" selection-end-line="303" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ontology/smart_contract/neo_contract/oep4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133">
@@ -744,9 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ontology/utils/util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -786,22 +834,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5130">
+          <caret line="304" column="19" lean-forward="true" selection-start-line="304" selection-start-column="19" selection-end-line="304" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runTestMoon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#1353#1797#0" />
+            <element signature="e#3664#4490#0" />
+            <element signature="e#4524#4949#0" />
+            <element signature="e#4983#5923#0" />
+            <element signature="e#5964#6412#0" />
+            <element signature="e#6458#6812#0" />
+            <element signature="e#6857#7354#0" />
+            <element signature="e#7400#8023#0" />
+            <element signature="e#8083#9099#0" />
+            <element signature="e#9155#18083#0" />
+            <element signature="e#18147#18437#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/testDNA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        <state relative-caret-position="304">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runTestLuckyMoon(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="42" column="45" lean-forward="true" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runTestMoon.py">
+    <entry file="file://$PROJECT_DIR$/runTestPoke.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="49" column="58" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+        <state relative-caret-position="399">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testLayer2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="458" lean-forward="true" selection-start-line="458" selection-end-line="458" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#2493#2890#0" />
+            <element signature="e#2940#3520#0" />
+            <element signature="e#3564#4084#0" />
+            <element signature="e#4130#4630#0" />
+            <element signature="e#4681#5165#0" />
+            <element signature="e#5208#5722#0" />
+            <element signature="e#5775#6182#0" />
+            <element signature="e#6231#6720#0" />
+            <element signature="e#6768#7369#0" />
+            <element signature="e#7418#8021#0" />
+            <element signature="e#8069#8607#0" />
+            <element signature="e#8651#8938#0" />
+            <element signature="e#8988#9323#0" />
+            <element signature="e#9366#9724#0" />
+            <element signature="e#9778#10272#0" />
+            <element signature="e#10322#10645#0" />
+            <element signature="e#10686#11236#0" />
+            <element signature="e#11277#11602#0" />
+            <element signature="e#11640#12003#0" />
+            <element signature="e#12047#12467#0" />
+            <element signature="e#12501#12785#0" />
+            <element signature="e#12858#13870#0" />
+            <element signature="e#12854#13866#0" />
+            <element signature="e#13937#14945#0" />
+            <element signature="e#15001#23884#0" />
+            <element signature="e#23948#24238#0" />
           </folding>
         </state>
       </provider>

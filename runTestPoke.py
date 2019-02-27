@@ -31,7 +31,7 @@ ad = Address.b58decode(admin_addr).to_array()
 toAccount = "ARDskfQuvTa7TvbCVNX8MP5zjg7SUdDgSa"
 toAcct = Address.b58decode(toAccount).to_array()
 
-ContractAddress = "491b4c202b1f83a6f0d609b1680dc66b0590260e"
+ContractAddress = "ade81ea47dc5babac9ec00f02292e7b8c39ab5d4"
 
 contract_address_str = ContractAddress
 contract_address = bytearray.fromhex(contract_address_str)
@@ -39,25 +39,32 @@ contract_address.reverse()
 
 DNA1 = 111101666666104
 
+pokeHashList = []
+
 class Test(unittest.TestCase):
 
-    def test_createProperty(self):
+    def test_startGame(self):
         payerAcct = adminAcct
-        param_list = [] # args
-        param_list.append("createProperty".encode())
-        param_list1 = [] # args0
-        param_list2 = [] # args0[1]
+
+        param_list = []  # args
+        param_list1 = []  # args[0]
+
+        param_list.append("startGame".encode())  # operation
         i = 0
-        num = 100
+        num = 52
+        pokeList = []
         while i < num:
-            param_list2.append([payerAcct.get_address().to_array(), DNA1 + i])
+            pokeList.append("bd15b3cd9804c09fa179d1310678bb08104a311aa9d9173f020363367e8b5434")
             i += 1
-        param_list1.append(payerAcct.get_address().to_array())
-        param_list1.append(param_list2)
+        param_list1.append(pokeList)
+        param_list1.append([admin_addr, admin_addr, admin_addr, admin_addr, admin_addr, admin_addr, admin_addr, admin_addr, admin_addr, admin_addr])
+        param_list1.append(22)
         param_list.append(param_list1)
-        print(param_list)
-        hash = self.test_invoke(payerAcct, param_list)
-        print("hash === createProperty", hash)
+        print("params_invoke ----- ", param_list, "\n")
+        hash2 = self.test_invoke(payerAcct, param_list)
+
+
+        print("hash === ", hash2)
         return True
 
     def test_transferProperty(self):
@@ -145,7 +152,7 @@ class Test(unittest.TestCase):
 
     def test_invoke(self, payerAcct, param_list):
         params = BuildParams.create_code_params_script(param_list)
-        #
+
         # tx = NeoVm.make_invoke_transaction(bytearray(contract_address), bytearray(params), b'', 20000, 500)
         # sdk.sign_transaction(tx, payerAcct)
         # nil, gaslimit = sdk.rpc.send_raw_transaction_pre_exec(tx)
